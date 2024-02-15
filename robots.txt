@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://blog.neurs.net/superjp/sitemap.xml
+Sitemap: http://blog.neurs.net/gilajp/sitemap.xml
+Sitemap: http://blog.neurs.net/gojekpot/sitemap.xml
+Sitemap: http://blog.neurs.net/winstrike69/sitemap.xml
+Sitemap: http://blog.neurs.net/jagoan86/sitemap.xml
+Sitemap: http://blog.neurs.net/slotzeus/sitemap.xml
+Sitemap: http://blog.neurs.net/kaptenjackpot/sitemap.xml
+Sitemap: http://blog.neurs.net/boosterjp/sitemap.xml
+Sitemap: http://blog.neurs.net/kerajaanslot/sitemap.xml
+Sitemap: http://blog.neurs.net/pakong86/sitemap.xml
+Sitemap: http://blog.neurs.net/viral88/sitemap.xml
+Sitemap: http://blog.neurs.net/clan4d/sitemap.xml
+Sitemap: http://blog.neurs.net/dinamit4d/sitemap.xml
+Sitemap: http://blog.neurs.net/elang212/sitemap.xml
+Sitemap: http://blog.neurs.net/gori77/sitemap.xml
+Sitemap: http://blog.neurs.net/viral4d/sitemap.xml
+Sitemap: http://blog.neurs.net/playground88/sitemap.xml
